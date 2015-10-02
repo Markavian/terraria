@@ -1,2 +1,5 @@
 # Ignore backup files
 *.bak
+
+# Ignore captures
+Captures
