@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "Laurieli.plr": true
+  },
+  "World": {
+    "Chaos2.wld": false,
+    "Darkened2.wld": false,
+    "Demondia2.wld": false,
+    "Lthandlwell2.wld": false,
+    "Quaint2.wld": false,
+    "Othelios.wld": false,
+    "One-point-Three.wld": true,
+    "Chaos.wld": false,
+    "Darkened.wld": false,
+    "Demondia.wld": false,
+    "Eigth.wld": false,
+    "Lthandlwell.wld": false,
+    "World_9.wld": false,
+    "Quaint.wld": false,
+    "Mord.wld": false,
+    "Mord2.wld": false,
+    "Mach_Twelve.wld": false,
+    "Saccharin.wld": false,
+    "Waypoint.wld": true
+  }
+}
