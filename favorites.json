@@ -20,7 +20,7 @@
     "Mord.wld": false,
     "Mord2.wld": false,
     "Mach_Twelve.wld": false,
-    "Saccharin.wld": false,
+    "Saccharin.wld": true,
     "Waypoint.wld": true
   }
 }
