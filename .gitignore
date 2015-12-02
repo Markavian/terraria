@@ -4,3 +4,7 @@
 
 # Ignore captures
 Captures
+
+# Ignore machine specific files
+/servers.dat
+/config.json
